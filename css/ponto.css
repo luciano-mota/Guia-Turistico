@@ -1,0 +1,124 @@
+
+
+.chamada{float:left;width: 100%;  font-size: 1.5em;  color: black;  margin-left:1%; padding: 2% 2%;}
+.chamada-coment{width: 100%;    color: white; margin-left: 40px;width: 100%;  color: black; margin-left: 1%; font-size: 0.8em; padding: 2% 2%}
+
+
+.amarelo{
+	
+	width: 100%;
+	
+	padding: 3% 3%;
+	text-align: center;
+	 
+
+	
+	float: left; 
+	
+	   }
+
+
+	.qd1{ 
+
+		width: 45%;
+		height: 30%
+		
+		font-weight:bold;  
+		float: left;   
+		margin: 1% 1%;  
+		padding: 12% 5% ;  
+		height: 45%;
+		cursor: pointer;
+		background: url(../img/parque-rangedor2.jpeg) center center / 100% no-repeat ;}
+
+
+
+
+	.qd2{ 
+
+		width: 45%;
+		
+		font-weight:bold;
+		float:right;
+		margin: 1% 1%;  
+		padding: 12% 5% ; 
+		height: 45%; 
+		cursor: pointer;
+		background: url(../img/deodoro.jpg) center center / 100% no-repeat ;}
+
+	.qd3{ 
+
+		width: 45%;
+		
+		font-weight:bold;  
+		float: left;   
+		margin: 1% 1%;  
+		padding: 12% 5% ;  
+		height: 45%;
+		cursor: pointer;
+		background: url(../img/cen-historico.jpg) center center / 100% no-repeat ;}
+		
+	.qd4{ 
+		width: 45%;
+		
+		font-weight:bold;
+		float:right;
+		margin: 1% 1%;  
+		padding: 12% 5% ; 
+		height: 45%; 
+		cursor: pointer;
+		background: url(../img/teatro-slz.jpg) center center / 100% no-repeat ;}
+		
+
+		.qd5{ 
+
+		width: 45%;
+		
+		font-weight:bold;  
+		float: left;   
+		margin: 1% 1%;  
+		padding: 12% 5% ;  
+		height: 45%;
+		cursor: pointer;
+		background: url(../img/praias-slz.jpg) center center / 100% no-repeat ;}
+		
+	.qd6{ 
+		width: 45%;
+		
+		font-weight:bold;
+		float:right;
+		margin: 1% 1%;  
+		padding: 12% 5% ; 
+		height: 45%; 
+		cursor: pointer;
+		background: url(../img/igreja-slz.jpg) center center / 100% no-repeat ;}
+		
+
+.qd7{ 
+
+		width: 45%;
+		
+		font-weight:bold;  
+		float: left;   
+		margin: 1% 1%;  
+		padding: 12% 5% ;  
+		height: 45%;
+		cursor: pointer;
+		background: url(../img/birutas-slz.jpeg) center center / 100% no-repeat ;}
+		
+	.qd8{ 
+		width: 45%;
+		
+		font-weight:bold;
+		float:right;
+		margin: 1% 1%;  
+		padding: 12% 5% ; 
+		height: 45%; 
+		cursor: pointer;
+		background: url(../img/lencois-slz.jpg) center center / 100% no-repeat ;}
+		
+
+
+
+
+	

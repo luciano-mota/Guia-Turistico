@@ -1,0 +1,36 @@
+/* REFERENTE AS DIV DO CONTEUDO DAS DICAS*/
+
+
+
+.proj-dicas{
+	margin-top: 2%; 
+	width: 100%; 
+	float: left; 
+	padding: 0	; 
+	background-color: red;  }
+
+	.proj-dicas-img{ 
+	width: 30%;
+	height: 120px; 
+	float: left; 
+	margin-right:  1%  ; 
+	background-color: blue;
+	  }
+
+	  .title{width: 35%; padding: 2%;  float: left;}
+	  .title h3, h2, h1{color: #fff; padding: 1%; }
+
+
+	.proj-img-acesso{ 
+	width: 30%;
+	height: 120px; 
+	float:  right;
+		
+	margin-right:  ; 
+	background-color: blue;
+	  }
+
+
+	  .proj-img-acesso i { text-align: center; color: #fff; 
+	 
+	float: right; cursor: pointer; font-size:70px; margin:15% 25%; }

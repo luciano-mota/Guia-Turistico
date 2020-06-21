@@ -1,0 +1,87 @@
+/* REFERENTE AS DIV DO CONTEUDO DAS DICAS*/
+
+
+	
+
+.chamada{float:left;width: 100%;  font-size: 1.5em;  color: black;  margin-left:1%; padding: 2% 2%;}
+.chamada-coment{width: 100%;    color: white; margin-left: 40px;width: 100%;  color: black; margin-left: 1%; font-size: 0.8em; padding: 2% 2%}
+
+
+.qd1 a{
+		width:70%; 
+		
+		background-color: blue;
+		
+		color: white;
+		font-weight:bold;   
+		float: left;   
+		 
+		
+		cursor: pointer;
+
+
+
+	}
+
+
+
+.pracamod1{
+	
+	width: 100%;
+	height: 150px;
+	border: 1px black solid;
+	margin: 2% 2%;
+	background: url(../img/saudade-slz.jpg) center center / 100% no-repeat ;
+	float: left; 
+	
+	   }
+
+
+
+
+	.pracamod2{
+	margin: 2% 2%;
+	width: 100%;
+	height: 150px;
+	border: 1px black solid;
+	
+	background: url(../img/deodoro.jpg) center center / 100% no-repeat ;
+	float: left; 
+	
+	   }
+
+	   .pracamod3{
+	margin: 2% 2%;
+	width: 100%;
+	height: 150px;
+	border: 1px black solid;
+	
+	background: url(../img/pantheon.jpg) center center / 100% no-repeat ;
+	float: left; 
+	
+	   }
+
+
+
+	   .pracamod4{
+	margin: 2% 2%;
+	width: 100%;
+	height: 150px;
+	border: 1px black solid;
+	
+	background: url(../img/deodoro.jpg) center center / 100% no-repeat ;
+	float: left; 
+	
+	   }
+
+
+	
+
+
+
+	
+
+
+
+
+	

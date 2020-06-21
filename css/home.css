@@ -1,0 +1,85 @@
+.img-banner{}
+
+.chamada{ height: 200px;
+
+	background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.4)),  url(../img/home.jpg) center center no-repeat;
+	float:left;width: 100%;  font-size: 1.5em;  color: white;   padding: 2% 2%;}
+.chamada-coment{width: 100%;margin-top: 2%;      color: white; margin-left: 1%; font-size: 0.8em; padding: 2% 2%}
+
+
+.amarelo{
+	
+	width: 100%;
+	
+	padding: 3% 3%;
+	text-align: center;
+	background-color: yellow;
+	 
+
+	
+	float: left; 
+	
+	   }
+
+
+	.qd1{ 
+
+		width: 45%;
+		height: 30%;
+		background-color: white;
+		font-weight:bold;  
+		float: left;   
+		margin: 1% 1%;  
+		padding: 12% 5% ;  
+		height: 45%;
+		cursor: pointer;
+		}
+
+
+
+
+	.qd2{ 
+
+		width: 45%;
+		height: 30%;
+		background-color: white;
+		font-weight:bold;
+		float:right;
+		margin: 1% 1%;  
+		padding: 12% 5% ; 
+		height: 45%; 
+		cursor: pointer;
+		}
+
+	.qd3{ 
+
+		width: 45%;
+		height: 30%;
+		background-color: white;
+		font-weight:bold;  
+		float: left;   
+		margin: 1% 1%;  
+		padding: 12% 5% ;  
+		height: 45%;
+		cursor: pointer;
+		}
+		
+	.qd4{ 
+		width: 45%;
+		height: 30%;
+		background-color: white;
+		font-weight:bold;
+		float:right;
+		margin: 1% 1%;  
+		padding: 12% 5% ; 
+		height: 45%; 
+		cursor: pointer;
+		}
+		
+
+		
+
+
+
+
+	

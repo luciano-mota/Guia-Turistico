@@ -1,0 +1,228 @@
+
+
+.chamada{float:left;width: 100%;  font-size: 1.5em;  color: black;  margin-left:1%; padding: 2% 2%;}
+
+
+.chamada-coment{
+	width: 99%;  
+	border: solid 1px blue ;
+	  
+	  
+	   color: red; 
+	   margin-left: 1%; 
+	   font-size: 0.8em; 
+	   padding: 2% 2%}
+
+
+
+
+
+	.imagem-deodoro{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/deodoro.jpg) center center / 100% no-repeat ;}
+
+
+		.horario{width: 55%; font-weight: bold; font-size: 1.5em; height: 25px; border: 1px solid #bdb0b0; float: left; padding: 0% 5%; margin: 1% 3%;}
+		
+		.coment-gratuito{width: 30%; text-align: left; font-size: 0.9em; height: 150px; border: 1px solid #bdb0b0; float: left; padding: 0% 2%; margin: 2% 3%;}
+
+		.leitor{width: 98%; float: left; text-align: center; padding: 2% 2%; margin: 4% 2%; }
+
+		.texto{ width: 100%; padding: 2% 5%;float: left; font-size: 0.9em; background-color:#e3dede;   }
+	
+		.mapa{float: left; width: 99%; margin:2% 2%;  text-align:center;	}
+		i{padding: 0% 5%;}
+
+
+.imagem-saudade{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/saudade-slz.jpg) center center / 100% no-repeat ;}
+
+		.imagem-pantheon{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/pantheon.jpg) center center / 100% no-repeat ;}
+
+
+		.imagem-alegria{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/pantheon.jpg) center center / 100% no-repeat ;}
+
+
+		.imagem-adventury{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/adventury.jpg) center center / 100% no-repeat ;}
+
+
+.imagem-lapero{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/lapero.jpg) center center / 100% no-repeat ;}
+
+		.imagem-senzala{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/senzala.jpg) center center / 100% no-repeat ;}
+
+		.imagem-verdao{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/verdao.jpg) center center / 100% no-repeat ;}
+
+		.imagem-cponto{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/cponto.jpg) center center / 100% no-repeat ;}
+
+		.imagem-colonial{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/colonial.jpg) center center / 100% no-repeat ;}
+
+
+		.imagem-crioulas{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/crioulas.jpg) center center / 100% no-repeat ;}
+
+
+
+		.imagem-bcanal{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/barcanal.jpg) center center / 100% no-repeat ;}
+
+
+		.imagem-hsaoluis{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/sanluis.jpg) center center / 100% no-repeat ;}
+
+
+		.imagem-cafofodica{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/cafofo.jpg) center center / 100% no-repeat ;}
+
+		.imagem-hmaranhense{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/pmaranhense.jpg) center center / 100% no-repeat ;}
+
+
+
+		.imagem-taberna{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/taberna.jpg) center center / 100% no-repeat ;}
+
+
+		.imagem-porto{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/porto.jpg) center center / 100% no-repeat ;}
+
+
+		.imagem-nelson{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/nelson.jpg) center center / 100% no-repeat ;}
+
+		.imagem-reviverhostel{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/hostel.jpg) center center / 100% no-repeat ;}
+
+		.imagem-flor{ 
+
+		width: 100%;
+		height: 200px;
+		font-weight:bold;  
+		float: left;   
+		cursor: pointer;
+		background: url(../img/flor.jpg) center center / 100% no-repeat ;}
+	
+	
+	
+	
+	
